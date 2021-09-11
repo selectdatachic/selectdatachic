@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @selectdatachic, I'm currently learning data science and looking to collaborate and gain wealth of knowledge from the Github community.
